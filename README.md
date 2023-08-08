@@ -29,7 +29,6 @@ This is a React-based portfolio website that showcases your projects, skills, an
 ## Technologies Used
 
 - React
-- React Router
 - HTML5
 - CSS3
 - JavaScript
