@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://Liban200.github.io/React-portfolio/",
+  "homepage": "https://Liban200.github.io/port-react/",
   "private": true,
   "dependencies": {
     "gh-pages": "^5.0.0",
